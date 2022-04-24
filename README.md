@@ -1,3 +1,5 @@
 # react-todo
-minimal todo list
-
+It's a minimal todo list, build with
+- Vite
+- React-TS
+- TailwindCSS
